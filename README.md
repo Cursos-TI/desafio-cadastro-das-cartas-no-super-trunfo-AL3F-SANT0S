@@ -1,3 +1,20 @@
+# Instruções de como jogar - Países - Cadastro das Cartas
+
+1. Pense ou pesquise em uma Cidade
+2. De acordo com a ordem solicitada pelo proprio jogo, preenchar as informações de:
+    *   País (`char`)
+    *   População (`int`)
+    *   Área (`float`)
+    *   PIB (`float`)
+    *   Número de pontos turísticos (`int`)
+3. Repita o processo acima para a segunda cidade.
+4. Escolha qual atributo comparar e veja o quem foi o vencedor!
+
+
+***********    AVISO IMPORTANTE    ***********
+# Para executar o jogo será necessário instalar as Extensões C/C++
+
+
 # Desafio Super Trunfo - Países - Cadastro das Cartas
 
 Bem-vindo ao desafio "Super Trunfo - Países"! No jogo Super Trunfo, os jogadores comparam os atributos das cartas para determinar a mais forte. O tema deste Super Trunfo é "Países", onde você comparará os atributos das cidades.
